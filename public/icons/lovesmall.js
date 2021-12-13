@@ -1,0 +1,7 @@
+import React from "react";
+
+export default function CommentButton() {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="18" height="18"><image width="18" height="18" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAJKADAAQAAAABAAAAJAAAAAAJxsHGAAACY0lEQVRYCe2Yv0tbURTHjYTi4OAoHTpbwc3RUYRA/4LSxYJQihkCFYTMgjSWDA2lkKEF+ycIgmR0dCvYPUNx7OBQSjB+vtd7bm8e2vdC3nt2eAe+3HN/fr/v3PPCeamNx+O5/8nq94nZftNaZXwHbIFnYBHkYdccMgRnoP/lc/cyeWgtjhBCJLAL3oL55OKc+zec9wm0EDays4MgL+aUiU2bLKkdwNMwUfGVKTKxmHP6HXDB4p+0MxsP/ZRD1sEe2PAHilPcTfVdhHzOfKdv13SI30aIwpq7wSeeA7DvDxfPGnyXJkAJbL4iU5gYCfAP2sYVl0zc0hBE6G0y6xQVGSNQ6zmUEmZOg0VFr7bZhTkltDGX02CCwu8MynNJ4CwPk+ByGkxQlv2lrKkEpYW5ilAVobQIpM1XOVRFKC0CafOWQ6p1nfkiyrqFtgkup8EEDSNmVXRlWczlNJggfQWY7fmKzvqFtJ5DpayZ02CC+oxauapa96BIUf5slbBWV4tbGu5qajks+kizK99bWUW+6HrURq7Irxs7bQusgE0/JvXuCRCroT/giI2qhSeM+SUGPoCXYGFiMr0zYIkj0FK7MtW4I/oN0AN2fbjBnuC9Cz3vIOYF7g/wGkwjRhziCt9k+H+vTB0zSB78lEZ4Tet8VHTNr2xfhvaaNUOgBE7/lH7oQMjDPxIS5KOiJFyO9lzh7zB/Eo1N7cY5lGkzYo5ZmIzKN8aaiPmV6ZB/LJpaUEJMLlGJ9YWkjgcz+orK81mvKMmVNUK/2WhvUO5RiUVljdB7Nik/voLco8KZwcL/Q2HkkZ1b8L27beOKTOgAAAAASUVORK5CYII="/></svg>
+    )
+}
