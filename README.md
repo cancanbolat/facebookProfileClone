@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+## Tailwind CSS Facebook Profile Page Clone
+
+---
+
+<img src="ss1.png">
+<img src="ss2.png">
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
