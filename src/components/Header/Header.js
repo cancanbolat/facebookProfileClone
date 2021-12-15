@@ -1,15 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import { Link, NavLink, useHistory } from "react-router-dom";
-import FacebookLogo from '../../icons/facebookLogo';
-import SearchIcon from '../../icons/searchIcon';
-import Plus from '../../icons/plus';
-import Messenger from '../../icons/messenger';
-import DownArrow from '../../icons/downArrow';
-import Bell from '../../icons/bell';
-import Home from '../../icons/home';
-import Watch from '../../icons/watch';
-import Groups from '../../icons/groups';
-import Feed from '../../icons/feed';
+import { Link } from "react-router-dom";
+import { FacebookLogo, SearchIcon, Plus, Messenger, DownArrow, Bell, Home, Watch, Groups, Feed } from '../../icons'
 
 
 function Header() {

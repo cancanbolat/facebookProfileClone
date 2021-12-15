@@ -1,4 +1,5 @@
 import React from 'react'
+import { Feeling, Image, LiveVideo } from '../../icons'
 
 function CreatePost() {
     return (
@@ -15,15 +16,15 @@ function CreatePost() {
                 </div>
                 <div className="p-2 flex">
                     <div className="w-1/3 flex space-x-2 justify-center items-center hover:bg-gray-100 dark:hover:bg-dark-third text-xl sm:text-3xl py-2 rounded-lg cursor-pointer text-red-500">
-                        <i className='bx bxs-video-plus'></i>
+                        <LiveVideo />
                         <span className="text-xs sm:text-sm font-semibold text-gray-500 dark:text-dark-txt">Live video</span>
                     </div>
                     <div className="w-1/3 flex space-x-2 justify-center items-center hover:bg-gray-100 dark:hover:bg-dark-third text-xl sm:text-3xl py-2 rounded-lg cursor-pointer text-green-500">
-                        <i className='bx bx-images'></i>
+                        <Image />
                         <span className="text-xs sm:text-sm font-semibold text-gray-500 dark:text-dark-txt">Photo/Video</span>
                     </div>
                     <div className="w-1/3 flex space-x-2 justify-center items-center hover:bg-gray-100 dark:hover:bg-dark-third text-xl sm:text-3xl py-2 rounded-lg cursor-pointer text-yellow-500">
-                        <i className='bx bx-smile'></i>
+                        <Feeling />
                         <span className="text-xs sm:text-sm font-semibold text-gray-500 dark:text-dark-txt">Life Event</span>
                     </div>
                 </div>
